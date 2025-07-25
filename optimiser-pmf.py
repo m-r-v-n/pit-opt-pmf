@@ -1,5 +1,5 @@
 ############################################################
-# PyMaxflow Pit Optimiser
+# PyMaxflow Pit Optimiser - Boykov–Kolmogorov (BK) Algorithm
 #
 #
 #
